@@ -8,7 +8,8 @@ packages = [{include = "hi_sqlalchemy"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-sqlalchemy = "^2.0.17"
+sqlalchemy = "^1.4.41"
+sqlmodel = "^0.0.8"
 
 
 [build-system]
